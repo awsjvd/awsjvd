@@ -5,7 +5,5 @@
 - <b>ETL-Pipeline-Using-Airflow</b>
   - [ETL pipeline that fetches weather data from Open-Meteo API and loads it into Snowflake](https://github.com/awsjvd/Weather-ETL-pipeline)
     - <b>ETL-Pipeline-Using-Airflow</b>
-- <b>ETL-Pipeline-Using-Airflow</b>
-  - [Marketing-Analytics-Project)
-    - <b>Marketing-Analytics-Project</b>
+
   
