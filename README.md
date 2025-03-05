@@ -6,8 +6,8 @@
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
 <!-- Azure Data Engineering Project -->
-- <b>Azure Data Engineering Project</b>  
-  - [Azure Data Engineering Project](https://github.com/awsjvd/Azure-Data-Engineering-Project)
+- <b>Adventure Works Azure Data Engineering Project</b>  
+  - [Azure Data Engineering Project](https://github.com/awsjvd/AdventureWorks-Azure-Data-Engineering-Project)
 
 <!-- Other Projects -->
 - <b>Marketing Analytics Using SQL, Python & Power BI</b>  
