@@ -5,6 +5,10 @@
 
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
+<!-- Netflix Azure Data Engineering Project -->
+- <b>Netflix Azure Data Engineering Project</b>  
+  - [End-to-end Azure data pipeline using ADF, Databricks, AutoLoader, Delta Live Tables, and Unity Catalog](https://github.com/awsjvd/Netflix-Azure-Data-Engineering-Project)
+
 <!-- Azure Data Engineering Project -->
 - <b>Adventure Works Azure Data Engineering Project</b>  
   - [Azure Data Engineering Project](https://github.com/awsjvd/AdventureWorks-Azure-Data-Engineering-Project)
@@ -14,4 +18,4 @@
   - [End-to-end marketing analytics project using SQL for transformation, Python for Sentiment Analysis, and Power BI for visualization](https://github.com/awsjvd/Marketing-Analytics-Project)  
 
 - <b>ETL-Pipeline-Using-Airflow</b>  
-  - [ETL pipeline that fetches weather data from Open-Meteo API and loads it into Snowflake](https://github.com/awsjvd/Weather-ETL-pipeline)
+  - [ETL pipeline that fetches weather data from Open-Meteo API and loads it into Snowflake](https://github.com/awsjvd/Weather-ETL-pipeline)  
