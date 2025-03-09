@@ -11,7 +11,7 @@
 
 <!-- Azure Data Engineering Project -->
 - <b>Adventure Works Azure Data Engineering Project</b>  
-  - [Azure Data Engineering Project](https://github.com/awsjvd/AdventureWorks-Azure-Data-Engineering-Project)
+  - [End-to-end Azure data pipeline using ADF, Databricks, AutoLoader, Delta Live Tables, and Unity Catalog](https://github.com/awsjvd/AdventureWorks-Azure-Data-Engineering-Project)
 
 <!-- Other Projects -->
 - <b>Marketing Analytics Using SQL, Python & Power BI</b>  
