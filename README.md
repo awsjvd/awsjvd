@@ -1,5 +1,3 @@
-# Data Engineering Portfolio - Muhammad Awais Javed
-
 <h1>Hi, I'm Muhammad Awais Javed! <br/>
   <a href="https://github.com/joshmadakor1">Data Engineer</a> 
   <a href="https://www.linkedin.com/in/awaisjvd/"></a>
